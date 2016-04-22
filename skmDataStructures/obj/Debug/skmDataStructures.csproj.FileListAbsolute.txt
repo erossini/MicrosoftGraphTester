@@ -1,0 +1,5 @@
+C:\Users\Enrico.Rossini\Documents\MSDN\Graphs\skmDataStructures\bin\Debug\skmDataStructures.dll
+C:\Users\Enrico.Rossini\Documents\MSDN\Graphs\skmDataStructures\bin\Debug\skmDataStructures.pdb
+C:\Users\Enrico.Rossini\Documents\MSDN\Graphs\skmDataStructures\obj\Debug\skmDataStructures.csprojResolveAssemblyReference.cache
+C:\Users\Enrico.Rossini\Documents\MSDN\Graphs\skmDataStructures\obj\Debug\skmDataStructures.dll
+C:\Users\Enrico.Rossini\Documents\MSDN\Graphs\skmDataStructures\obj\Debug\skmDataStructures.pdb
